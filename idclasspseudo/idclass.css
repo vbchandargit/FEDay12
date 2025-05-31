@@ -1,0 +1,28 @@
+#text{
+    color: white;
+    background-color: blue; 
+    
+}
+
+#fjfj{
+    color: white;
+    background-color: black;
+}
+
+.fita{
+    color: beige;
+    background-color: blueviolet;
+}
+
+.title:hover{
+    color: rgb(from color r g b);
+    background-color: rgb(64, 178, 64);
+}
+
+.ghgh::before{
+    content: "welcome to";
+}
+
+.ghgh::after{
+    content: "thank you";
+}
